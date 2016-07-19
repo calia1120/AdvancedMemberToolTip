@@ -1,10 +1,9 @@
-# AdvancedMemberToolTip
 -------------------------------------------------------------------------------
 Advanced Member Tooltip v1.1 6/5/16
 Author: Arkadius (@arkadius1 EU), updated by Calia1120
 -------------------------------------------------------------------------------
 This Add-on is not created by, affiliated with or sponsored by ZeniMax Media
-Inc. or its affiliates. The Elder ScrollsÂ® and related logos are registered
+Inc. or its affiliates. The Elder Scrolls® and related logos are registered
 trademarks or trademarks of ZeniMax Media Inc. in the United States and/or
 other countries.
 

@@ -1,3 +1,18 @@
+-------------------------------------------------------------------------------
+-- Advanced Member Tooltip v1.1
+-------------------------------------------------------------------------------
+-- Author: Arkadius, continued by Calia1120
+-- This Add-on is not created by, affiliated with or sponsored by ZeniMax Media
+-- Inc. or its affiliates. The Elder Scrolls® and related logos are registered
+-- trademarks or trademarks of ZeniMax Media Inc. in the United States and/or
+-- other countries.
+--
+-- You can read the full terms at:
+-- https://account.elderscrollsonline.com/add-on-terms
+--
+---------------------------------------------------------------------------------
+
+
 local AddonName = "AdvancedMemberTooltip"
 AMT = {}
 local savedData = nil
@@ -18,13 +33,24 @@ local langStrings =
     en =
     {
         member      = "Member for %s%i %s",
-        depositions = "Depositions",
+        depositions = "Deposits",
         withdrawals = "Withdrawals",
         total       = "Total: %i |t16:16:EsoUI/Art/currency/currency_gold.dds|t (over %i %s)",
         last        = "Last: %i |t16:16:EsoUI/Art/currency/currency_gold.dds|t (%i %s ago)",
         minute      = "minute",
         hour        = "hour",
         day         = "day"
+    },
+	fr =
+    {
+        member      = "Membre pour %s%i %s",
+        depositions = "Dépôts",
+        withdrawals = "Retraits",
+        total       = "Total: %i |t16:16:EsoUI/Art/currency/currency_gold.dds|t (sur %i %s)",
+        last        = "Dernier: %i |t16:16:EsoUI/Art/currency/currency_gold.dds|t (%i %s depuis)",
+        minute      = "minute",
+        hour        = "heure",
+        day         = "jour"
     },
     de =
     {
