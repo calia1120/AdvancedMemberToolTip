@@ -1,0 +1,8 @@
+## Title: Advanced Member Tooltip
+## Author: Arkadius (@arkadius1 EU)
+## APIVersion: 100011
+## Description: Adds time of membership and guild bank depositions/withdrawals (gold only) to the guild roster tooltips
+## Version: 0.1.2
+## SavedVariables: AdvancedMemberTooltip
+
+AdvancedMemberTooltip.lua
